@@ -1,0 +1,6 @@
+{
+  "name": "Safe-Maneuver",
+  "description": "Defect-based Structural Integrity and Remaining Life Prediction System for maneuver systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
